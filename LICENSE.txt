@@ -1,0 +1,14 @@
+Copyright (C) 2018  Wissam Aoudi, Mikel Iturbe and Magnus Almgren
+Copyright (C) 2018  Chalmers University of Technology and Mondragon
+Goi Eskola Politeknikoa JMA S. Coop.
+
+All rights reserved.
+
+The code and data contained in this repository is free to be
+downloaded, executed, modified and shared for research and other
+non-commercial purposes. Published works using the code and/or data
+from this repository should cite the following paper:
+
+Wissam Aoudi, Mikel Iturbe, Magnus Almgren. "Truth Will Out:
+Departure-Based Process-Level Detection of Stealthy Attacks on Control
+Systems". ACM CCS 2018.
