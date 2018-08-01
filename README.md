@@ -3,8 +3,7 @@
 
 This repository contains the necessary code and data files to reproduce
 the findings from the paper titled "*Truth Will Out: Departure-Based 
-Process-Level Detection of Stealthy Attacks on Control Systems Detection of 
-Stealthy Attacks on Control Systems*" published in ACM CCS 2018.
+Process-Level Detection of Stealthy Attacks on Control Systems*" published in ACM CCS 2018.
 
 This repository contains both the data and code to reproduce the figures
 from Sections 4.1, 4.2, 4.4 and 4.5 from the paper, relating to the
