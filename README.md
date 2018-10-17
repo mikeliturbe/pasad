@@ -54,6 +54,8 @@ download, execute, modify and share for research and other
 non-commercial purposes. Published works using the code and/or data
 from this repository should cite the following paper:
 
-Wissam Aoudi, Mikel Iturbe, and Magnus Almgren. "Truth Will Out:
-Departure-Based Process-Level Detection of Stealthy Attacks on Control
-Systems". ACM CCS 2018.
+Wissam Aoudi, Mikel Iturbe, and Magnus Almgren. 2018. Truth Will Out: 
+Departure-Based Process-Level Detection of Stealthy Attacks on Control Systems. 
+In *Proceedings of the 2018 ACM SIGSAC Conference on Computer and 
+Communications Security (CCS '18)*. ACM, New York, NY, USA, 817-831. DOI: 
+https://doi.org/10.1145/3243734.3243781 
